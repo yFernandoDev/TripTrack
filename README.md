@@ -1,4 +1,4 @@
-TripTrack é um sistema desenvolvido para estudos, permitindo que usuários planejem viagens de maneira eficiente. Com TripTrack, é possível:
+TripsTrack é um sistema desenvolvido para estudos, permitindo que usuários planejem viagens de maneira eficiente. Com TripTrack, é possível:
 
 1 - Planejar detalhadamente a viagem, incluindo datas de partida e retorno. <br>
 2 - Convidar amigos e familiares via e-mail para participar da viagem. <br>
